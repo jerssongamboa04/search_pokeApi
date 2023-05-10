@@ -1,0 +1,54 @@
+.container-card-pokemon {
+    /* display: flex;
+    flex-direction: column; */
+    text-align: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.container-component ul {
+
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+li {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: cadetblue;
+    color: white;
+}
+
+
+.li-moves {
+    background-color: darkgreen;
+}
+
+.li-habiliti {
+
+    background-color:coral;
+}
+
+.ul-habilities {
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container-card-pokemon h1{
+
+background-color: black;
+color: white;
+font-size: 40px;
+font-weight: 600;
+font-weight: bold;
+border-radius: 50px;
+padding: 10px;
+}
+
